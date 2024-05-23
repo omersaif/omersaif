@@ -23,6 +23,6 @@
   <a href="https://omersaifkazi.cloud/" target="__blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:imomersk@gmail.com" target="__blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/omersaif" target="__blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/omer-38816aa9" target="__blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/omersaifkazi/" target="__blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
 </p>
